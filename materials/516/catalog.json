@@ -1,0 +1,10 @@
+{
+  "candidates": [
+    {
+      "candidate_id": "c1",
+      "path": "candidates/c1/data.jsonl",
+      "sha256": "020a51db436e462466eae73b1ef00fbb12ebf18f89828a6a63935280be5b9693",
+      "schema_digest": "526f7c3dee12bf0593168370874ce16805e78b20a482b6a41040590de941e90c"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "candidate": "c1",
+  "digest": "020a51db436e462466eae73b1ef00fbb12ebf18f89828a6a63935280be5b9693",
+  "schema_digest": "526f7c3dee12bf0593168370874ce16805e78b20a482b6a41040590de941e90c",
+  "rule_digest": "b6a3713f95646042ae40907ef912eca17cc70725a39e858d7eff7cf66a236146",
+  "check": "unique_id",
+  "selected": "run1",
+  "runs": {
+    "run1": "FAIL",
+    "run2": "FAIL",
+    "run3": "ERROR"
+  },
+  "waiver": {
+    "run_id": "run1",
+    "until": 20,
+    "revoked": false
+  }
+}
